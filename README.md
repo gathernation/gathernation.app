@@ -4,7 +4,13 @@ Welcome to Gathernation! This app makes it easy to gather with friends!
 
 ### App Mission
 
-It's time for technology to serve non-technology interactions! That's what we are about. 
+We need technology to serve non-technology interactions! It's time to move past digital gatherings and meet with friends. This streamlined app makes gatherings easy to coordinate. When you are invited, it's easy to opt out and easy to stay in the loop. Time for technology to facilitate real life! 
+
+### App Support
+
+The Settings area of the app allows you to revisit the Welcome Slides to refresh yourself on the basics of the app. Under the Setup dropdown in Settings, you may Log Out if you want to sign in with a different phone number. 
+
+If anyone is harrassing you, you can navigate to the Friends screen, find that "friend," and Block them. If you want to unblock them, you can do that under Settings. 
 
 ### Privacy Policy
 
