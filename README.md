@@ -18,3 +18,7 @@ We store all of your app information in the cloud. We only use that to provide a
 1. We send phone numbers to a third party vendor to text you the login code.
 2. We pass your notification token to a third party vendor to send you app notifications.
 3. We might use information such as your gathering name or items to bring to help target ads to apply to what you are doing.
+
+### #Goals
+
+We also aim to get a better website. :) 
